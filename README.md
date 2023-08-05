@@ -1,9 +1,8 @@
-<h1 align="center">Lyrics Feature Modelling: Sentiments, Emotion Associations, Morals, and Topics</h1>
+<h3 align="center">Lyrics and Audio Features extracted for the paper "Soundscapes of morality: Linking music preferences and moral values through lyrics and audio" </h3>
 <div align="center">
 </div>
 
-This directory contains the code for retreiving artists song lyrics data, as well as audio and lyrics features as described in our paper: "Soundscapes of morality: Linking music preferences and moral 2
-values through lyrics and audio" that have been submited for PLOS ONE Journal.
+This directory contains the code for retreiving artists song lyrics data, as well as audio and lyrics features as described in our paper: "Soundscapes of morality: Linking music preferences and moral values through lyrics and audio" that have been submited for PLOS ONE Journal.
 Here we cannot share the Moral Scores of the participants in our experiments due to the Pricacy implications but we share all the code that we used to create the features that we use as predictors for MFT values.
 
 ## Install:
